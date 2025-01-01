@@ -31,6 +31,10 @@ touch test_hello.py
 3.    
 
 
+git remote set-url origin https://gpinaki/@github.com/gpinaki/End2end-object-detection-yolov8.git
+
+
+
 
 
 
