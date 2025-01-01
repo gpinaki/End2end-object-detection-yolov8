@@ -1,6 +1,6 @@
-### Create a Project Scaffold
 
-## Github Codespace
-## Colab Notebook
-## AWS Cloudshell, AWS Cloud9
+
+## Model training
+[Model Training Colab Link](https://colab.research.google.com/drive/1_nZRkLWB62cxePPerG2LMx3zqhop2ovA#scrollTo=YKflCxRHeG4j)
+
 
