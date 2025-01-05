@@ -20,4 +20,6 @@ test:
 
 # Format code with Black
 format:
-	black .
+	black *.py devopslib/*.py
+
+all: install lint test format 
