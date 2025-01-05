@@ -16,7 +16,7 @@ lint:
 
 # Test code with pytest
 test:
-	pytest
+	python -m pytest -vv --cov=devopslib test_*.py
 
 # Format code with Black
 format:
