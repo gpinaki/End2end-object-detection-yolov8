@@ -1,4 +1,4 @@
-[![Test python codebase](https://github.com/gpinaki/End2end-object-detection-yolov8/actions/runs/12621472823/workflow/main.yml/badge.svg)](https://github.com/gpinaki/End2end-object-detection-yolov8/actions/runs/12621472823/workflow/main.yml)
+[Test python codebase](https://github.com/gpinaki/End2end-object-detection-yolov8/actions/runs/12621472823/workflow/main.yml)
 
 ## Model Training Notebook
 [Model Training Colab Link](https://colab.research.google.com/drive/1_nZRkLWB62cxePPerG2LMx3zqhop2ovA#scrollTo=YKflCxRHeG4j)
