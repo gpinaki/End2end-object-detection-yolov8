@@ -1,6 +1,6 @@
 from devopslib.randomfruits import fruit
 
+
 def test_fruit():
     fruit_choice = fruit()
-    assert fruit_choice in ['apple', 'banana', 'orange', 'grape', 'kiwi']
-
+    assert fruit_choice in ["apple", "banana", "orange", "grape", "kiwi"]
