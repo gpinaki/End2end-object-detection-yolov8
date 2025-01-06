@@ -3,6 +3,10 @@ pytest==8.3.4
 black==24.10.0
 pytest-cov==6.0.0
 fire==0.7.0
+wikipedia==1.4.0
+fastapi==0.115.6
+uvicorn==0.34.0
+textblob==0.18.0.post0
 
 # For machine learning
 #ultralytics==8.3.56
