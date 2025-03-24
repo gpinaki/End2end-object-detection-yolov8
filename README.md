@@ -1,5 +1,9 @@
 [Test python codebase](https://github.com/gpinaki/End2end-object-detection-yolov8/actions/runs/12621472823/workflow/main.yml)
 
+## Disclaimer
+
+This repository and its contents are entirely personal and do not represent the views of any company or organization. No proprietary code, confidential data, or client-specific implementation details are included. All work has been developed independently for open-source experimentation and public sharing.
+
 ## Model Training Notebook
 [Model Training Colab Link](https://colab.research.google.com/drive/1_nZRkLWB62cxePPerG2LMx3zqhop2ovA#scrollTo=YKflCxRHeG4j)
 
